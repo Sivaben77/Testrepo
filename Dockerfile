@@ -3,3 +3,5 @@ this is test2
 ubuntu run
 apt 
 install
+check 
+this
