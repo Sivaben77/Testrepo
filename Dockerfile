@@ -4,3 +4,4 @@ apt
 install
 get into
 get history
+get historynow
