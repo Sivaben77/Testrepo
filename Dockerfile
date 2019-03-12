@@ -5,3 +5,4 @@ install
 get into
 get history
 get historynow
+get latest update
